@@ -1,0 +1,204 @@
+<resources>
+
+    <string name="sugar_label">Açúcar</string>
+    <string name="chocolate_label">Chocolate</string>
+    <string name="flour_label">Farinha</string>
+    <string name="milk_label">Leite</string>
+    <string name="butter_label">Manteiga</string>
+    <string name="bat_label">Morcego</string>
+    <string name="eggs_label">Ovos</string>
+    <string name="pepper_label">Pimenta</string>
+    <string name="cheese_label">Queijo</string>
+    <string name="salt_label">Sal</string>
+
+    <string name="recipe_title">Receita Maluca</string>
+    <string name="selected_ingredients_title">Ingredientes Selecionados</string>
+    <string name="recipe_steps">Passos da Receita</string>
+    <string name="share_button">Compartilhar</string>
+    <string name="recipe_image_description">Imagem da Receita</string>
+
+
+    <string name="proceed_button">Prosseguir</string>
+
+    <!-- Receita 1 -->
+    <string name="receita1" translatable="false">Salada de Aventura</string>
+    <string name="receita1_text" translatable="false">Pegue %1$s, misture com %2$s e finalize com %3$s. Aventure-se nessa combinação que ninguém esperava, nem você!</string>
+
+    <!-- Receita 2 -->
+    <string name="receita2" translatable="false">Omelete do Desespero</string>
+    <string name="receita2_text" translatable="false">Quebre %1$s, jogue %2$s sem pensar muito, e adicione %3$s porque é o que restou na geladeira.</string>
+
+    <!-- Receita 3 -->
+    <string name="receita3" translatable="false">Macarrão da Confusão</string>
+    <string name="receita3_text" translatable="false">Ferva %1$s, misture %2$s por razões misteriosas, e jogue %3$s porque por que não?</string>
+
+    <!-- Receita 4 -->
+    <string name="receita4" translatable="false">Sopa Surrealista</string>
+    <string name="receita4_text" translatable="false">Misture %1$s com %2$s em uma panela, adicione %3$s, e espere algo surpreendente acontecer!</string>
+
+    <!-- Receita 5 -->
+    <string name="receita5" translatable="false">Sanduíche Improvável</string>
+    <string name="receita5_text" translatable="false">Junte %1$s com %2$s e %3$s, e descubra se isso realmente pode ser chamado de sanduíche!</string>
+
+    <!-- Receita 6 -->
+    <string name="receita6" translatable="false">Risoto da Coragem</string>
+    <string name="receita6_text" translatable="false">Frite %1$s, adicione %2$s, e jogue %3$s sem medo. Agora feche os olhos e prove!</string>
+
+    <!-- Receita 7 -->
+    <string name="receita7" translatable="false">Batata Espacial</string>
+    <string name="receita7_text" translatable="false">Misture %1$s com %2$s e adicione %3$s. Prepare-se para uma viagem intergaláctica de sabores!</string>
+
+    <!-- Receita 8 -->
+    <string name="receita8" translatable="false">Pizza do Improvável</string>
+    <string name="receita8_text" translatable="false">Espalhe %1$s na massa, cubra com %2$s e termine com %3$s. Está longe de ser uma pizza tradicional, mas quem liga?</string>
+
+    <!-- Receita 9 -->
+    <string name="receita9" translatable="false">Assado do Mistério</string>
+    <string name="receita9_text" translatable="false">Coloque %1$s no forno, cubra com %2$s, e adicione %3$s. Depois, reze para dar certo.</string>
+
+    <!-- Receita 10 -->
+    <string name="receita10" translatable="false">Suco do Desespero</string>
+    <string name="receita10_text" translatable="false">Bata %1$s com %2$s e adicione %3$s para dar aquele toque de "o que eu estou fazendo?".</string>
+
+    <!-- Receita 11 -->
+    <string name="receita11" translatable="false">Lasanha da Preguiça</string>
+    <string name="receita11_text" translatable="false">Pegue %1$s, jogue %2$s por cima, e adicione %3$s sem pensar muito. Vai ficar lasanha? Talvez.</string>
+
+    <!-- Receita 12 -->
+    <string name="receita12" translatable="false">Hambúrguer Cósmico</string>
+    <string name="receita12_text" translatable="false">Misture %1$s, %2$s, e %3$s. Transforme essa explosão de sabores em um hambúrguer que parece de outro planeta!</string>
+
+    <!-- Receita 13 -->
+    <string name="receita13" translatable="false">Torta da Aleatoriedade</string>
+    <string name="receita13_text" translatable="false">Coloque %1$s na massa, jogue %2$s, e finalize com %3$s. A única certeza é que ninguém sabe o que esperar dessa torta.</string>
+
+    <!-- Receita 14 -->
+    <string name="receita14" translatable="false">Café da Manhã de Sobrevivência</string>
+    <string name="receita14_text" translatable="false">Comece o dia com %1$s, adicione %2$s, e misture %3$s. Você vai precisar de energia para enfrentar essa combinação!</string>
+
+    <!-- Receita 15 -->
+    <string name="receita15" translatable="false">Panqueca do Acaso</string>
+    <string name="receita15_text" translatable="false">Misture %1$s, jogue %2$s na massa, e adicione %3$s. Talvez isso vire panqueca, talvez não. Só o acaso dirá!</string>
+
+    <!-- Receita 16 -->
+    <string name="receita16" translatable="false">Risoto de Outro Mundo</string>
+    <string name="receita16_text" translatable="false">Comece com %1$s, jogue %2$s na panela, e adicione %3$s. Pronto, você tem um risoto de outro planeta!</string>
+
+    <!-- Receita 17 -->
+    <string name="receita17" translatable="false">Strogonoff dos Bravos</string>
+    <string name="receita17_text" translatable="false">Cozinhe %1$s, misture com %2$s, e adicione %3$s. Somente os corajosos se arriscam nessa versão do strogonoff!</string>
+
+    <!-- Receita 18 -->
+    <string name="receita18" translatable="false">Curry do Desafio</string>
+    <string name="receita18_text" translatable="false">Misture %1$s com %2$s, e tempere com %3$s. Prepare-se para o desafio de sabores desse curry inesperado!</string>
+
+    <!-- Receita 19 -->
+    <string name="receita19" translatable="false">Pudim da Coragem</string>
+    <string name="receita19_text" translatable="false">Misture %1$s com %2$s, adicione %3$s e torça para isso se transformar em um pudim comestível!</string>
+
+    <!-- Receita 20 -->
+    <string name="receita20" translatable="false">Bolo do Acaso</string>
+    <string name="receita20_text" translatable="false">Misture %1$s, adicione %2$s e jogue %3$s. Coloque no forno e espere que algo comestível saia disso.</string>
+
+    <!-- Receita 21 -->
+    <string name="receita21" translatable="false">Farofa do Caos</string>
+    <string name="receita21_text" translatable="false">Misture %1$s, %2$s e uma generosa quantidade de %3$s. Esse caos culinário é pura farofa de sabor!</string>
+
+    <!-- Receita 22 -->
+    <string name="receita22" translatable="false">Torta do Absurdo</string>
+    <string name="receita22_text" translatable="false">Recheie a massa com %1$s, adicione %2$s e termine com %3$s. Essa torta é tão absurda que pode dar certo!</string>
+
+    <!-- Receita 23 -->
+    <string name="receita23" translatable="false">Cuscuz do Improvável</string>
+    <string name="receita23_text" translatable="false">Misture %1$s com %2$s, adicione %3$s e descubra se essa versão de cuscuz pode realmente ser servida.</string>
+
+    <!-- Receita 24 -->
+    <string name="receita24" translatable="false">Ensopado do Inesperado</string>
+    <string name="receita24_text" translatable="false">Jogue %1$s na panela, adicione %2$s e %3$s. Agora é só esperar pelo inesperado!</string>
+
+    <!-- Receita 25 -->
+    <string name="receita25" translatable="false">Frango do Destino</string>
+    <string name="receita25_text" translatable="false">Tempere %1$s com %2$s, adicione %3$s e entregue seu prato ao destino!</string>
+
+    <!-- Receita 26 -->
+    <string name="receita26" translatable="false">Salpicão da Aleatoriedade</string>
+    <string name="receita26_text" translatable="false">Misture %1$s, jogue %2$s e adicione %3$s. O resultado é um salpicão que desafia qualquer lógica culinária.</string>
+
+    <!-- Receita 27 -->
+    <string name="receita27" translatable="false">Pipoca do Mistério</string>
+    <string name="receita27_text" translatable="false">Misture %1$s com %2$s, adicione %3$s, e veja se essa pipoca será uma surpresa agradável ou um mistério eterno.</string>
+
+    <!-- Receita 28 -->
+    <string name="receita28" translatable="false">Purê Cósmico</string>
+    <string name="receita28_text" translatable="false">Amasse %1$s, adicione %2$s e misture %3$s. O universo desse purê é um mistério de sabores!</string>
+
+    <!-- Receita 29 -->
+    <string name="receita29" translatable="false">Suflê do Destino</string>
+    <string name="receita29_text" translatable="false">Bata %1$s com %2$s, adicione %3$s e torça para que esse suflê não desmorone!</string>
+
+    <!-- Receita 30 -->
+    <string name="receita30" translatable="false">Sorvete do Improvável</string>
+    <string name="receita30_text" translatable="false">Misture %1$s, %2$s e adicione %3$s. Congele e espere para descobrir se isso pode ser chamado de sorvete.</string>
+
+    <!-- Receita 31 -->
+    <string name="receita31" translatable="false">Almôndegas Espaciais</string>
+    <string name="receita31_text" translatable="false">Misture %1$s com %2$s, adicione %3$s e transforme essas almôndegas em uma refeição fora deste mundo!</string>
+
+    <!-- Receita 32 -->
+    <string name="receita32" translatable="false">Biscoitos do Surreal</string>
+    <string name="receita32_text" translatable="false">Misture %1$s com %2$s, adicione %3$s e forme biscoitos. O resultado será algo completamente surreal!</string>
+
+    <!-- Receita 33 -->
+    <string name="receita33" translatable="false">Taco do Desespero</string>
+    <string name="receita33_text" translatable="false">Coloque %1$s na tortilha, adicione %2$s e jogue %3$s por cima. Esse taco é o resultado do puro desespero culinário.</string>
+
+    <!-- Receita 34 -->
+    <string name="receita34" translatable="false">Chili do Destino</string>
+    <string name="receita34_text" translatable="false">Misture %1$s com %2$s, adicione %3$s e prepare-se para um chili que desafia o destino.</string>
+
+    <!-- Receita 35 -->
+    <string name="receita35" translatable="false">Espaguete do Desafio</string>
+    <string name="receita35_text" translatable="false">Cozinhe %1$s, jogue %2$s por cima e finalize com %3$s. Será que esse espaguete vai te desafiar?</string>
+
+    <!-- Receita 36 -->
+    <string name="receita36" translatable="false">Risoto Galáctico</string>
+    <string name="receita36_text" translatable="false">Cozinhe %1$s com %2$s e adicione %3$s. Esse risoto é galáctico, vindo diretamente das estrelas!</string>
+
+    <!-- Receita 37 -->
+    <string name="receita37" translatable="false">Ensopado da Alegria</string>
+    <string name="receita37_text" translatable="false">Misture %1$s com %2$s, adicione %3$s e cozinhe até que a alegria tome conta da cozinha!</string>
+
+    <!-- Receita 38 -->
+    <string name="receita38" translatable="false">Lasanha do Caos</string>
+    <string name="receita38_text" translatable="false">Monte camadas de %1$s, jogue %2$s e termine com %3$s. A lasanha do caos promete sabor e confusão!</string>
+
+    <!-- Receita 39 -->
+    <string name="receita39" translatable="false">Panqueca Intergaláctica</string>
+    <string name="receita39_text" translatable="false">Misture %1$s com %2$s, adicione %3$s e prepare-se para uma panqueca digna de uma viagem espacial!</string>
+
+    <!-- Receita 40 -->
+    <string name="receita40" translatable="false">Torta do Impossível</string>
+    <string name="receita40_text" translatable="false">Misture %1$s com %2$s, adicione %3$s e torça para que essa torta do impossível se torne realidade.</string>
+
+    <!-- Receita 41 -->
+    <string name="receita41" translatable="false">Bolo de Aventuras</string>
+    <string name="receita41_text" translatable="false">Misture %1$s, adicione %2$s e finalize com %3$s. Prepare-se para uma aventura doce!</string>
+
+    <!-- Receita 42 -->
+    <string name="receita42" translatable="false">Pizza Caótica</string>
+    <string name="receita42_text" translatable="false">Cubra a massa com %1$s, adicione %2$s e finalize com %3$s. A pizza caótica pode surpreender!</string>
+
+    <!-- Receita 43 -->
+    <string name="receita43" translatable="false">Quiche da Sorte</string>
+    <string name="receita43_text" translatable="false">Misture %1$s com %2$s, jogue %3$s e torça para que sua sorte transforme essa quiche em algo comestível.</string>
+
+    <!-- Receita 44 -->
+    <string name="receita44" translatable="false">Muffin do Destino</string>
+    <string name="receita44_text" translatable="false">Misture %1$s com %2$s, adicione %3$s e coloque no forno. O destino dirá o que esses muffins vão se tornar!</string>
+
+    <!-- Receita 45 -->
+    <string name="receita45" translatable="false">Bolo Explosivo</string>
+    <string name="receita45_text" translatable="false">Misture %1$s com %2$s e adicione %3$s. Cozinhe em fogo alto e espere uma explosão... de sabores, claro!</string>
+
+    <string name="app_name">Receita Pronta!</string>
+</resources>
