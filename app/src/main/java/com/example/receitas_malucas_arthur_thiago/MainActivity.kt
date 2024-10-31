@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
         ingredientGrid = findViewById(R.id.ingredientGrid)
         val proceedButton: Button = findViewById(R.id.proceedButton)
 
-        // Configurar o clique nos ingredientes
+        //botoes
         setupIngredientClick(R.id.image_sugar, "Açúcar")
         setupIngredientClick(R.id.image_chocolate, "Chocolate")
         setupIngredientClick(R.id.image_flour, "Farinha")

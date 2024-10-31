@@ -20,7 +20,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0">
 
-        <!-- Célula 1: Açúcar -->
+        <!-- Açúcar -->
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -44,7 +44,7 @@
                 android:background="@color/teal_200"/>
         </LinearLayout>
 
-        <!-- Célula 2: Chocolate -->
+        <!-- Chocolate -->
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -68,7 +68,7 @@
                 android:background="@color/teal_200"/>
         </LinearLayout>
 
-        <!-- Célula 3: Farinha -->
+        <!-- Farinha -->
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -92,7 +92,7 @@
                 android:background="@color/teal_200"/>
         </LinearLayout>
 
-        <!-- Célula 4: Leite -->
+        <!-- Leite -->
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -116,7 +116,7 @@
                 android:background="@color/teal_200" />
         </LinearLayout>
 
-        <!-- Célula 5: Manteiga -->
+        <!-- Manteiga -->
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -140,7 +140,7 @@
                 android:background="@color/teal_200"/>
         </LinearLayout>
 
-        <!-- Célula 6: Morcego -->
+        <!-- Morcego -->
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -164,7 +164,7 @@
                 android:background="@color/teal_200"/>
         </LinearLayout>
 
-        <!-- Célula 7: Ovos -->
+        <!-- Ovos -->
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -188,7 +188,7 @@
                 android:background="@color/teal_200"/>
         </LinearLayout>
 
-        <!-- Célula 8: Pimenta -->
+        <!-- Pimenta -->
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -212,7 +212,7 @@
                 android:background="@color/teal_200"/>
         </LinearLayout>
 
-        <!-- Célula 9: Sal -->
+        <!-- Sal -->
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -236,7 +236,7 @@
                 android:background="@color/teal_200"/>
         </LinearLayout>
 
-        <!-- Célula 10: Queijo -->
+        <!-- Queijo -->
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="wrap_content"
